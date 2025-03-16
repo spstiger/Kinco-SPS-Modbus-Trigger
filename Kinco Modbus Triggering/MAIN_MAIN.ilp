@@ -20,7 +20,7 @@ SHL  %MB1, B#1
 (* Network 4 *)
 (*Wenn Auslöser 0 oder Kette abgearbeitet, dann neu starten und Startbit auf 1*)
 LD    TRUE
-GT    %MB1, B#2#1000
+GT    %MB1, B#2#100
 MOVE    B#0, %MB1
 OR(
 LD    TRUE

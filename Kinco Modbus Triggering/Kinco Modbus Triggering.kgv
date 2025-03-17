@@ -1,5 +1,5 @@
 VAR_GLOBAL
 END_VAR
 VAR_GLOBAL
-    T20    :TON   ;  (*  *)
+    T4     :TON   ;  (*  *)
 END_VAR
